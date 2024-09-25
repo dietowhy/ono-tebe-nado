@@ -263,6 +263,7 @@ address {
   text-transform: uppercase;
   font-weight: 700;
   font-size: 40px;
+  margin-bottom: 100px;
 }
 
 .about__text {
@@ -274,10 +275,6 @@ address {
 .text_block {
   margin-left: 25px;
   margin-top: 135px;
-}
-
-.about__title {
-  margin-bottom: 100px;
 }
 
 .text_block__margin {
